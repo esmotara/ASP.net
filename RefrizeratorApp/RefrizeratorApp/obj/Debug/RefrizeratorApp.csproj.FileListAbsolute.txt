@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.exe.config
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.exe
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\bin\Debug\RefrizeratorApp.pdb
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\obj\Debug\RefrizeratorApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\obj\Debug\RefrizeratorApp.RefrizeratorUI.resources
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\obj\Debug\RefrizeratorApp.Properties.Resources.resources
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\obj\Debug\RefrizeratorApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\obj\Debug\RefrizeratorApp.exe
+C:\Users\acer\Desktop\21.0814\RefrizeratorApp\RefrizeratorApp\obj\Debug\RefrizeratorApp.pdb
