@@ -1,0 +1,8 @@
+D:\GradeApp\GradeApp\bin\Debug\GradeApp.exe.config
+D:\GradeApp\GradeApp\bin\Debug\GradeApp.exe
+D:\GradeApp\GradeApp\bin\Debug\GradeApp.pdb
+D:\GradeApp\GradeApp\obj\Debug\GradeApp.Form1.resources
+D:\GradeApp\GradeApp\obj\Debug\GradeApp.Properties.Resources.resources
+D:\GradeApp\GradeApp\obj\Debug\GradeApp.csproj.GenerateResource.Cache
+D:\GradeApp\GradeApp\obj\Debug\GradeApp.exe
+D:\GradeApp\GradeApp\obj\Debug\GradeApp.pdb
